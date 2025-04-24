@@ -81,8 +81,7 @@ h1 {
   text-align: center;
 }
 
-
-/* Ajustes para pantallas pequeñas */
+/* Responsivo */
 @media (max-width: 600px) {
   form#registroForm {
     padding: 15px;
